@@ -57,8 +57,7 @@ The objective of this project is to predict the **resale price of a car** using 
 | Model             | R² Score | Remarks                    |
 |------------------|----------|----------------------------|
 | Linear Regression | ✅ Basic baseline model            |
-| Decision Tree     | ✅ Captures non-linear patterns    |
-| Random Forest     | ✅ Best performing ensemble model  |
+
 
 Evaluation Metrics:
 - R² Score
