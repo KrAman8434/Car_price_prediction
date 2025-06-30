@@ -14,14 +14,13 @@ The objective of this project is to predict the **resale price of a car** using 
 
 - **Source**: `cars.csv` (custom or public dataset)
 - **Features Include**:
-  - Name
-  - Year
+  - Brand
+  - Registration_Year
   - Selling Price (Target)
   - Present Price
   - Fuel Type
-  - Seller Type
-  - Transmission
-  - Owner
+  - Mileage
+  - Engine V
 
 ---
 
@@ -30,7 +29,7 @@ The objective of this project is to predict the **resale price of a car** using 
 - **Language**: Python
 - **Libraries**:
   - pandas, numpy, matplotlib, seaborn
-  - scikit-learn (Linear Regression, Decision Tree, Random Forest)
+  - scikit-learn (Linear Regression)
 - **Environment**: Jupyter Notebook
 
 ---
